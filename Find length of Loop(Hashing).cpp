@@ -19,12 +19,10 @@ class Solution {
         return 0;
     }
 };
+// Find length of Loop
 
 // Difficulty: EasyAccuracy: 44.26%Submissions: 238K+Points: 2Average Time: 30m
 // Given the head of a linked list, determine whether the list contains a loop. If a loop is present, return the number of nodes in the loop, otherwise return 0.
-
-
-
 // Note: 'c' is the position of the node which is the next pointer of the last node of the linkedlist. If c is 0, then there is no loop.
 
 // Examples:
