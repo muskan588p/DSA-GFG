@@ -35,7 +35,7 @@ class Solution {
     }
 };
 
-// Reverse a Doubly Linked List
+// REVERSE A DOUBLY LINKED LIST
 
 // Difficulty: EasyAccuracy: 70.38%Submissions: 170K+Points: 2Average Time: 15m
 // Given a doubly linked list. Your task is to reverse the doubly linked list and return its head.
