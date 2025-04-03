@@ -27,6 +27,9 @@ class Solution {
     }
 };
 
+
+// Root to Leaf Paths
+
 // Given a Binary Tree, you need to find all the possible paths from the root node to all the leaf nodes of the binary tree.
 
 // Note: The paths should be returned such that paths from the left subtree of any node are listed first, followed by paths from the right subtree.
