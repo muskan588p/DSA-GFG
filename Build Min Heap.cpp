@@ -1,3 +1,5 @@
+// https://www.naukri.com/code360/problems/build-min-heap_1171167?leftPanelTabValue=PROBLEM
+
 #include <bits/stdc++.h> 
 void minheapify(vector<int> &arr, int n, int i){
     int smallest=i;
