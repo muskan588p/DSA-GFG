@@ -1,3 +1,4 @@
+// using DFS
 class Solution {
   public:
     void dfs(vector<vector<int>> &adj, vector<bool> &vis, int i, stack<int> &s){
